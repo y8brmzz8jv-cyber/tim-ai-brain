@@ -1,0 +1,26 @@
+{
+  "id": "conv-1782865427629-765uz2y91",
+  "providerId": "claude",
+  "title": "Run brain-setup skill",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782865427642,
+  "updatedAt": 1783012480994,
+  "lastResponseAt": 1783012480994,
+  "sessionId": "553b7cad-1db1-4863-a7da-d7414c6ba5a8",
+  "providerState": {
+    "providerSessionId": "553b7cad-1db1-4863-a7da-d7414c6ba5a8"
+  },
+  "externalContextPaths": [
+    "/Users/timdantas/Downloads/10X360 Coaching"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1830,
+    "cacheReadInputTokens": 363567,
+    "contextWindow": 1000000,
+    "contextTokens": 365399,
+    "percentage": 37,
+    "contextWindowIsAuthoritative": true
+  }
+}
