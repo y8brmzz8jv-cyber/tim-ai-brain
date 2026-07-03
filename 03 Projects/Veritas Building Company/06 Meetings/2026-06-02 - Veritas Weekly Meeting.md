@@ -3,6 +3,7 @@ date: 2026-06-02T00:00:00
 owner: Tim Dantas
 source: Fathom
 duration: 11 mins
+properties: "Project 5.0 (RV Park) = WD 5.0 — 2975 Carroll Ave; Edgewood Unit 1/2 = separate property (see [[03 Projects/Dantas Properties/CLAUDE.md]])"
 ---
 
 # Veritas Weekly Mtg. — June 2, 2026

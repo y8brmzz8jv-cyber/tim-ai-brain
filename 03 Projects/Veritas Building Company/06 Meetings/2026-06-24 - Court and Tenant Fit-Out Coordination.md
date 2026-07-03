@@ -2,6 +2,7 @@
 date: 2026-06-24T10:26:00
 owner: Tim Dantas
 source: Read AI
+property: "WD 2.0 — 3200 Carroll Ave (see [[03 Projects/Dantas Properties/CLAUDE.md]])"
 ---
 
 # Court and Tenant Fit-Out Coordination — June 24, 2026 @ 10:26 AM

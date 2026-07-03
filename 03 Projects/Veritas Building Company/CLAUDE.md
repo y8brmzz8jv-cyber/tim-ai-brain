@@ -2,6 +2,8 @@
 
 Veritas Building Company is a construction management company — it oversees construction projects for clients and charges a cost-plus percentage fee on the job. Several projects have been completed, and many more are in the pipeline.
 
+**Active client project portfolio** (per the shared "2025 DESIGN & DEVELOPMENT PROJECTS" Google Drive tracker with Dantas Properties): includes builds like Triplex - Beechwood Drive, Triplex - Shelor Drive, Timberlake Mixed-Use Building, Blackwater Run (Lots 55 & 56), "Edgewater on Edgewood" AirBnB, County Smoke restaurant (Ken & Jessica Hess), Chapel Lane Warehouses (Laramie), Walnut Hollow (7 houses), Town Center (Sam Patel), Sam's Office Remodel, and several smaller shed/garage/ADU projects. Also does construction management on the Dantas Properties "Work District" buildings — see [[03 Projects/Dantas Properties/CLAUDE.md]]. The live tracker stays in Drive; not duplicated here.
+
 ## Claude's Role
 
 Help Tim run Veritas day-to-day: track meetings, scopes, and delegated action items across every active job in the pipeline. Keep the pipeline visible — what stage each job is in, what's been decided, what's next, and who owns it.
