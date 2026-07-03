@@ -13,7 +13,7 @@ Dantas Properties builds and develops its own commercial properties, then leases
 
 **Enterprise Zone Grant program:** WD 2.0 and WD 3.0 qualify — requires exceeding $100,000 in Qualified Real Property Investments (QRPI) for rehab/expansion.
 
-The Google Drive tracker for all of this ("2025 DESIGN & DEVELOPMENT PROJECTS" spreadsheet, updated weekly) also covers **Veritas Building Company's** client project portfolio (Triplex builds, Timberlake Mixed-Use, Blackwater Run lots, County Smoke restaurant, Chapel Lane Warehouses, Walnut Hollow, Town Center, and more) — it's a shared tracker across both companies, not Dantas-only. Left in Drive as the live working document; not duplicated into the vault.
+The Google Drive tracker for all of this ("2025 DESIGN & DEVELOPMENT PROJECTS" spreadsheet, updated weekly) also covers **Veritas Building Company's** full client project roster — see [[03 Projects/Veritas Building Company/CLAUDE.md]] for the current active/potential/closed project list. It's a shared tracker across both companies, not Dantas-only. Left in Drive as the live working document; not duplicated into the vault.
 
 ## Claude's Role
 

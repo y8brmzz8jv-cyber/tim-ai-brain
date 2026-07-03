@@ -2,7 +2,28 @@
 
 Veritas Building Company is a construction management company — it oversees construction projects for clients and charges a cost-plus percentage fee on the job. Several projects have been completed, and many more are in the pipeline.
 
-**Active client project portfolio** (per the shared "2025 DESIGN & DEVELOPMENT PROJECTS" Google Drive tracker with Dantas Properties): includes builds like Triplex - Beechwood Drive, Triplex - Shelor Drive, Timberlake Mixed-Use Building, Blackwater Run (Lots 55 & 56), "Edgewater on Edgewood" AirBnB, County Smoke restaurant (Ken & Jessica Hess), Chapel Lane Warehouses (Laramie), Walnut Hollow (7 houses), Town Center (Sam Patel), Sam's Office Remodel, and several smaller shed/garage/ADU projects. Also does construction management on the Dantas Properties "Work District" buildings — see [[03 Projects/Dantas Properties/CLAUDE.md]]. The live tracker stays in Drive; not duplicated here.
+**Project numbering:** Veritas codes every job as `YY-###` (e.g., `26-001`), tracked in a dedicated "*Veritas Projects" Google Drive folder alongside "Potential Veritas Projects" and "Closed Out Veritas Projects" subfolders.
+
+**Active projects (as of the Drive folder):**
+- 26-001 Timberlake Mixed Use (Corey)
+- 26-002 County Smoke Expansion (Ken & Jessica Hess)
+- 26-003 Lynchburg Fabrication Expansion
+- 26-004 Dominion Now Word Church Fellowship Hall (needs estimate)
+- 26-005 Evans Pool House (needs estimate)
+- 26-006 Steve Muller 40x80 Garage (needs estimate)
+- 26-007 Donnie Newcome 22x48 Garage (needs estimate)
+- 25-002 Triplex (Corey) — Beechwood Drive & Shelor Drive
+- 25-003 Edgewood House (Tim Dantas)
+- 25-004 Blackwater Run Lot 55 (Tim Dantas)
+- 25-005 Blackwater Run Lot 56 (Eugenio)
+- 25-006 P&D Law Office Remodel
+- 25-007 Lane Enterprises Addition (Wytheville)
+
+**Potential/pipeline projects:** Byrd Enterprises P1, Town Center Madison Heights (Sam Patel), Onward Christian Academy, Boles Residence, a tentative shed project.
+
+**Closed out:** Chapel Lane Warehouses (Laramie Huggins) — cut loose per the design/dev tracker notes. Geisland Reconfigured Lot 56 (Tim Geisland's own project via Veritas).
+
+Also does construction management on the Dantas Properties "Work District" buildings — see [[03 Projects/Dantas Properties/CLAUDE.md]]. Live project tracker and financials (P&L, cost-plus billing templates, insurance, sub W-9s) stay in Drive; not duplicated here.
 
 ## Claude's Role
 
