@@ -4,13 +4,13 @@ companies:
   - Veritas Building Company
   - Mr. Pave
   - Dantas Properties
-role: Design & Permitting, People Manager
+role: Integrator/Chief of Staff (Mr. Pave, per EOS accountability chart) — also Design & Permitting at Veritas, and Safety oversight at Mr. Pave
 background: Former architect
 ---
 
 # Tim Geisland
 
-**Role:** Design & Permitting Processing — Veritas Building Company
+**Role:** Per Mr. Pave's EOS accountability chart (June 2025), Tim Geisland is the **Integrator/Chief of Staff** — strategic execution, EOS integration, leadership team collaboration, and protecting company culture. Also owns **Safety** (policy, training, job-site inspections, incident investigation) and handles **Design & Permitting** at Veritas Building Company. The 2026 Org Development Plan lists him as owning the "People" critical success factor.
 
 **Background:** Former architect before joining Mr. Pave / Veritas — brings a strong design skill set to the permitting and design-review process.
 

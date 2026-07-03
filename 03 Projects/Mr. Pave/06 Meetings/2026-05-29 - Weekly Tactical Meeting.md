@@ -1,7 +1,7 @@
 ---
 date: 2026-05-29T09:00:00
 owner: Tim Dantas
-source: Read AI
+source: Read AI + Google Drive native notes (merged)
 ---
 
 # Mr Pave Weekly Tactical Meeting — May 29, 2026 @ 9:00 AM
@@ -23,4 +23,6 @@ source: Read AI
 - **Cristy Bittencourt** — implement clickable "from Mr. Pave" tag linking to Mr. Pave's page on the Oxen Civil site.
 - Team — finalize onboarding schedule for Monday's 3 new hires.
 
-_(Read AI free plan.)_
+**From native notes (Rachel Mills):** Team welcomed **Pedro** as a new hire this meeting — one of the 3 onboarding. Jimmy on AMX integration. Tim Geisland on onboarding. Rachel on audit info collection/onboarding. Cristy on Oxen Media work. Tom helping the crew at an elementary school job. Sales metrics noted as "up 20% from last year, dip in Feb" — consistent with the Read AI-captured YoY figure above.
+
+_(Merged: Read AI report + native lightning-round notes taken by Rachel Mills in Google Drive.)_

@@ -2,6 +2,13 @@
 
 Mr. Pave is an asphalt, concrete, and site work company doing ~$11M/year in revenue. Typical customers are commercial or municipal. **~80% of current revenue comes from utility company work orders** — Columbia Gas, Miller Pipeline, VNG (Virginia Natural Gas), and Danella. Growing via a roll-up acquisition strategy targeting $50M+ revenue and a full exit within 7 years.
 
+**Mission, Vision, Core Values** (from Mr. Pave's official Mission/Vision doc, Organizational Development folder):
+- **Mission:** "We strengthen communities through trusted partnerships and exceptional paving solutions."
+- **Brand Vision:** "Your project, our faithful commitment"
+- **Team Vision:** "We leverage the success of Mr. Pave to provide life-changing opportunities for every team member"
+- **Financial Vision:** $15M revenue in 2026, $50M by 2030
+- **Core Values:** Quality, Safety, Integrity, People, Growth, Results-oriented
+
 **Subsidiaries:**
 - **Yellow Bins** — wholly owned roll-off bin business.
 - **Oxen Civil** — civil/site work brand kept under the Mr. Pave umbrella but branded separately (small "from Mr. Pave" tag, no mixed logos — see the May 29 Weekly Tactical meeting note).
@@ -24,7 +31,7 @@ If a session is drifting without moving toward the revenue trajectory, the acqui
 
 **Risk to watch:** Revenue is heavily concentrated — ~80% comes from four utility company relationships (Columbia Gas, Miller Pipeline, VNG, Danella). Worth surfacing if that concentration comes up in decisions (e.g., diversification, contract renewal risk).
 
-**Active acquisition — Reliance Concrete Company (RCC):** The company currently in due diligence (~$7-8M revenue, concrete/site work, owner-founder transitioning out). Confirmed by Tim: "Reliance" and "RCC" in meeting notes both refer to this same deal — different advisors use different shorthand (Mike Moro/legal side vs. Brody Wentzel/financial diligence side). See `06 Meetings/` for the full diligence trail.
+**Active acquisition — Reliance Concrete Contractors (RCC):** The company currently in due diligence (~$7-8M revenue, concrete/site work, owner-founder transitioning out). Confirmed by Tim: "Reliance" and "RCC" in meeting notes both refer to this same deal — different advisors use different shorthand (Mike Moro/legal side vs. Brody Wentzel/financial diligence side). Full legal name confirmed via the Google Drive data room ("Data Room - Reliance Concrete Contractors"). See `06 Meetings/` for the full diligence trail.
 
 ## Process
 
@@ -40,14 +47,26 @@ If a session is drifting without moving toward the revenue trajectory, the acqui
 
 ## Key People
 
-- **Jimmy Kline** — Oversees finance, operations, and HR. Reports directly to Tim. See [[00 Notes/People/Jimmy Kline]]
-- **Omid Rokni** — Oversees sales and marketing. Reports directly to Tim. See [[00 Notes/People/Omid Rokni]]
-- **Cristy Bittencourt** — Marketing and Brand Manager. See [[00 Notes/People/Cristy Bittencourt]]
+**Per the EOS accountability chart (Organizational Development Drive folder, printed June 2025 — may be partly outdated, see flags below):**
+- **Tim Dantas** — Visionary/CEO
+- **Tim Geisland** — Integrator/Chief of Staff, also owns Safety. See [[00 Notes/People/Tim Geisland]]
+- **Lance Diamond** — Chief Financial Officer. See [[00 Notes/People/Lance Diamond]] — **⚠️ but Jimmy Kline is the one actively running finance in every 2026 meeting; title/handoff needs confirming, see flag on his note.**
+- **Ed Araujo** — Chief Operations Officer, also IT Support. See [[00 Notes/People/Ed Araujo]] — 2026 planning docs show Operations ownership as "Ed or Tyler?", possibly shifting.
+- **Jessica Scott** — Chief Marketing Officer, but appears to have been transitioning out as of March 2026. See [[00 Notes/People/Jessica Scott]]
+- **Cristy Bittencourt** — Marketing/branding/social/content, has absorbed much of the CMO scope day-to-day. See [[00 Notes/People/Cristy Bittencourt]]
+- **Laura Cofer** — Accounting Manager. See [[00 Notes/People/Laura Cofer]]
+- **Krystal Edwards** — HR Coordinator. See [[00 Notes/People/Krystal Edwards]]
+- **Tom Nagle** — Project Manager/Business Development, Crew 1-2. See [[00 Notes/People/Tom Nagle]]
+- **Parker Curran** — Project Manager/Business Development, Crew 3. See [[00 Notes/People/Parker Curran]]
+- **Ethan Chelberg** — Project Manager/Business Development, Crew 4; also worked on the Yellow Bins launch. See [[00 Notes/People/Ethan Chelberg]]
+
+**Active in 2026 meetings (current, not necessarily on the 2025 chart):**
+- **Jimmy Kline** — Actively runs finance, operations, and HR in every 2026 meeting. Reports directly to Tim. See [[00 Notes/People/Jimmy Kline]]
+- **Omid Rokni** — Oversees sales and marketing, also a W-2 officer. Reports directly to Tim. See [[00 Notes/People/Omid Rokni]]
 - **Tyler Tipton** — Operations Manager (also PM at Veritas). See [[00 Notes/People/Tyler Tipton]]
-- **Tom Nagle** — Project Manager, reports to Tyler Tipton. See [[00 Notes/People/Tom Nagle]]
-- **Ed Araujo** — Director of Operations Infrastructure, oversees all technology including Patch Finder. See [[00 Notes/People/Ed Araujo]]
-- **Tim Geisland** — Design & permitting, people manager (also at Veritas/Dantas Properties). See [[00 Notes/People/Tim Geisland]]
 - **Rachel Mills** — Executive Assistant on the Mr. Pave team (also property manager at Dantas Properties). See [[00 Notes/People/Rachel Mills]]
+- **Kyle** — Recurring on Portsmouth/Virginia Beach region jobs. See [[00 Notes/People/Kyle]]
+- **Pedro** — New hire, Virginia Beach crew. See [[00 Notes/People/Pedro]]
 
 ## Folder Structure
 
