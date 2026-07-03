@@ -8,7 +8,7 @@ source: Read AI
 
 **Context:** Tim was on vacation and did not attend. **Keenan** was introduced as the new finance manager for the 10X360 coaching platform review.
 
-**⚠️ Flag for Tim — exit valuation discrepancy:** Jimmy reported a **target exit above $125M with an approximate 5-year timeline** in this meeting. This doesn't match the $50M / 7-year target in your GOALS.md. Worth reconciling which number is current — did the target move, or is this platform review using stale/aspirational numbers?
+**Update (2026-07-02):** Tim confirmed $125M is the real aspirational exit target (not stale numbers). The math to get there is still open — it depends on Mr. Pave's actual EBITDA margin (not yet pulled; the 38-40% figure the business runs at is gross margin, not EBITDA margin, which is a lower number after overhead/payroll/G&A). See the TODO in GOALS.md's Mr. Pave section — once the real EBITDA margin is known, the implied revenue target for $125M at a 5x exit multiple can be calculated for real.
 
 **Key findings:**
 - Company is busy with high-margin work — not a sales problem, a fulfillment/operations problem.

@@ -2,6 +2,11 @@
 
 Mr. Pave is an asphalt, concrete, and site work company doing ~$11M/year in revenue. Typical customers are commercial or municipal. **~80% of current revenue comes from utility company work orders** — Columbia Gas, Miller Pipeline, VNG (Virginia Natural Gas), and Danella. Growing via a roll-up acquisition strategy targeting $50M+ revenue and a full exit within 7 years.
 
+**Subsidiaries:**
+- **Yellow Bins** — wholly owned roll-off bin business.
+- **Oxen Civil** — civil/site work brand kept under the Mr. Pave umbrella but branded separately (small "from Mr. Pave" tag, no mixed logos — see the May 29 Weekly Tactical meeting note).
+- **"Eleventh"** — mentioned once alongside Oxen Civil in a meeting about financial process integration. Unconfirmed what this is — Tim wasn't sure either. Flagging rather than guessing; update this if it comes up again.
+
 ## Claude's Role
 
 Help Tim keep Mr. Pave's growth trajectory on track, keep the leadership team's priorities visible, and support the buildout of sales/onboarding training. Track meetings, decisions, and delegated action items across the leadership team.
@@ -18,6 +23,8 @@ If a session is drifting without moving toward the revenue trajectory, the acqui
 - Develop acquisition criteria for future purchases
 
 **Risk to watch:** Revenue is heavily concentrated — ~80% comes from four utility company relationships (Columbia Gas, Miller Pipeline, VNG, Danella). Worth surfacing if that concentration comes up in decisions (e.g., diversification, contract renewal risk).
+
+**Active acquisition — Reliance Concrete Company (RCC):** The company currently in due diligence (~$7-8M revenue, concrete/site work, owner-founder transitioning out). Confirmed by Tim: "Reliance" and "RCC" in meeting notes both refer to this same deal — different advisors use different shorthand (Mike Moro/legal side vs. Brody Wentzel/financial diligence side). See `06 Meetings/` for the full diligence trail.
 
 ## Process
 

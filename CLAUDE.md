@@ -5,7 +5,7 @@ This is Tim's command center for running Mr. Pave, its branch companies, and Dan
 
 ## Who I Am & My Purpose
 
-I'm a business owner, entrepreneur, creator, and CEO of Mr. Pave, along with a handful of smaller companies that have branched off from it. I also own Dantas Properties, a commercial real estate entity that leases out property.
+I'm a business owner, entrepreneur, creator, and CEO of Mr. Pave, along with a handful of smaller companies that have branched off from it — including Yellow Bins (roll-off bins) and Oxen Civil (civil/site work, branded separately). I also own Dantas Properties, a commercial real estate entity that leases out property. Veritas Building Company is a separate construction management company I also run.
 
 My purpose is to create companies and bring people in — giving them opportunities professionally, personally, and financially that I was never given by the people I worked for. I love building things: building companies, building people. I love sports, especially basketball — I play 2-3 times a week. I also love getting on equipment and running an excavator, and just sitting with a business problem until I figure out how to make it work.
 

@@ -17,6 +17,8 @@ North star: create companies and bring people in — professional, personal, and
 - **5 years:** $50M+ platform / multi-division infrastructure company
 - **7 years:** Full exit — walk away. Open to PE or a strategic buyer. Also open to a partial sale within the next 2 years if the right deal comes up.
 
+**Exit target (aspirational): $125M payout.** The real math on how to get there is unresolved — depends on Mr. Pave's actual EBITDA margin, which isn't known yet (Mr. Pave runs 38-40% *gross* margin, but EBITDA margin — after overhead/payroll/G&A — is a different, lower number that hasn't been pulled). At a 5x exit multiple: 20% EBITDA margin needs ~$125M revenue, 15% needs ~$167M, 10% needs ~$250M. **TODO: get the real EBITDA margin from Jimmy/the P&L, then recalculate the actual revenue number this $125M target implies.** Until then, treat the $50M/5-year and $125M exit numbers as two separate reference points, not a reconciled plan.
+
 **1-year professional goals:**
 - Hit or exceed $15M revenue with improved net margin
 - Install a true operations leader — reduce dependency on me

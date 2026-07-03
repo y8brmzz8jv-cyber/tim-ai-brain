@@ -2,12 +2,12 @@
 date: 2026-06-15T16:00:00
 owner: Tim Dantas
 source: Read AI
-flag: "likely resolved — see 2026-06-15 Quarterly Meeting note; please confirm"
+flag: "resolved — confirmed by Tim 2026-07-02"
 ---
 
 # Mr. Pave / Reliance Transaction — June 15, 2026 @ 4:00 PM
 
-**Update:** The same-day Quarterly Meeting (11:46 AM, Fathom) explicitly refers to **"the Reliance Concrete acquisition,"** which strongly suggests **RCC = Reliance Concrete Company**, and "Reliance Transaction" and the "RCC" diligence threads are the **same deal** — just referenced by different shorthand depending on who's running the call (Mike Moro/Emily Brooks/Nathan on the legal/transaction side vs. Brody Wentzel/Hal on the financial diligence side). The differing numbers ($3.95M cash purchase vs. $4.15M enterprise value LOI) are consistent with normal deal-term evolution across a diligence period, not necessarily two different deals. **Flagging for Tim to give a quick yes/no confirmation** — if wrong, these meeting threads need to be split apart.
+**Confirmed:** Reliance and RCC (Reliance Concrete Company) are the same acquisition — just referenced by different shorthand depending on who's running the call (Mike Moro/Emily Brooks/Nathan on the legal/transaction side vs. Brody Wentzel/Hal on the financial diligence side). All "RCC" and "Reliance" meeting threads in this folder refer to one deal.
 
 **Key details as captured:**
 - LOI enterprise value ~$4.15M, with some seller financing and an earn-out. 45-day DD period signed May 14 — creating ~2 weeks of timeline pressure to extend or accelerate.
