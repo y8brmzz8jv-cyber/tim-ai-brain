@@ -2,12 +2,12 @@
 name: Ed Araujo
 companies:
   - Mr. Pave
-role: Chief Operations Officer (per EOS accountability chart) — also IT/technology oversight
+role: Director of Operations Infrastructure — oversees technology
 ---
 
 # Ed Araujo
 
-**Role:** Per Mr. Pave's EOS accountability chart (June 2025), Ed Araujo is **Chief Operations Officer** — implementing operational strategy, workflow management, customer satisfaction, risk management, and mentoring project managers. Also owns **IT Support** and all technology, including Patch Finder. Note: the 2026 Org Development Plan shows Operations ownership as "Ed or Tyler?" — may be shifting toward shared/Tyler Tipton ownership; worth confirming current split with Tim.
+**Role:** Director of Operations Infrastructure at Mr. Pave. Oversees all technology, including Patch Finder, and makes sure everything runs smoothly.
 
 ## Notes
 

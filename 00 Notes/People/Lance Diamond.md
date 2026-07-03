@@ -2,14 +2,14 @@
 name: Lance Diamond
 companies:
   - Mr. Pave
-role: Chief Financial Officer (per EOS accountability chart, June 2025)
+role: Mr. Pave team member — finance-related
 ---
 
 # Lance Diamond
 
-**Role:** Chief Financial Officer per Mr. Pave's EOS accountability chart — financial strategy & planning, financial reporting & compliance, cash flow & liquidity, risk management. The 2026 Org Development Plan lists him as owning the "Financial" critical success factor.
+<!-- TODO: confirm exact role/title with Tim -->
 
-**Context:** Has been dealing with a health issue — started chemo and radiation treatment as of the June 3, 2026 Level 10 meeting, unable to attend. Jimmy Kline appears to have taken over active day-to-day finance leadership in 2026 meetings — see the flag on [[00 Notes/People/Jimmy Kline]]. Worth checking in with Tim on Lance's status and how finance leadership is actually split right now.
+**Context:** Has been dealing with a health issue — started chemo and radiation treatment as of the June 3, 2026 Level 10 meeting, unable to attend.
 
 ## Meeting History
 

@@ -47,26 +47,18 @@ If a session is drifting without moving toward the revenue trajectory, the acqui
 
 ## Key People
 
-**Per the EOS accountability chart (Organizational Development Drive folder, printed June 2025 — may be partly outdated, see flags below):**
-- **Tim Dantas** — Visionary/CEO
-- **Tim Geisland** — Integrator/Chief of Staff, also owns Safety. See [[00 Notes/People/Tim Geisland]]
-- **Lance Diamond** — Chief Financial Officer. See [[00 Notes/People/Lance Diamond]] — **⚠️ but Jimmy Kline is the one actively running finance in every 2026 meeting; title/handoff needs confirming, see flag on his note.**
-- **Ed Araujo** — Chief Operations Officer, also IT Support. See [[00 Notes/People/Ed Araujo]] — 2026 planning docs show Operations ownership as "Ed or Tyler?", possibly shifting.
-- **Jessica Scott** — Chief Marketing Officer, but appears to have been transitioning out as of March 2026. See [[00 Notes/People/Jessica Scott]]
-- **Cristy Bittencourt** — Marketing/branding/social/content, has absorbed much of the CMO scope day-to-day. See [[00 Notes/People/Cristy Bittencourt]]
-- **Laura Cofer** — Accounting Manager. See [[00 Notes/People/Laura Cofer]]
-- **Krystal Edwards** — HR Coordinator. See [[00 Notes/People/Krystal Edwards]]
-- **Tom Nagle** — Project Manager/Business Development, Crew 1-2. See [[00 Notes/People/Tom Nagle]]
-- **Parker Curran** — Project Manager/Business Development, Crew 3. See [[00 Notes/People/Parker Curran]]
-- **Ethan Chelberg** — Project Manager/Business Development, Crew 4; also worked on the Yellow Bins launch. See [[00 Notes/People/Ethan Chelberg]]
-
-**Active in 2026 meetings (current, not necessarily on the 2025 chart):**
-- **Jimmy Kline** — Actively runs finance, operations, and HR in every 2026 meeting. Reports directly to Tim. See [[00 Notes/People/Jimmy Kline]]
-- **Omid Rokni** — Oversees sales and marketing, also a W-2 officer. Reports directly to Tim. See [[00 Notes/People/Omid Rokni]]
+- **Jimmy Kline** — Oversees finance, operations, and HR. Reports directly to Tim. See [[00 Notes/People/Jimmy Kline]]
+- **Omid Rokni** — Oversees sales and marketing. Reports directly to Tim. See [[00 Notes/People/Omid Rokni]]
+- **Cristy Bittencourt** — Marketing and Brand Manager. See [[00 Notes/People/Cristy Bittencourt]]
 - **Tyler Tipton** — Operations Manager (also PM at Veritas). See [[00 Notes/People/Tyler Tipton]]
+- **Tom Nagle** — Project Manager, reports to Tyler Tipton. See [[00 Notes/People/Tom Nagle]]
+- **Ed Araujo** — Director of Operations Infrastructure, oversees all technology including Patch Finder. See [[00 Notes/People/Ed Araujo]]
+- **Tim Geisland** — Design & permitting, people manager (also at Veritas/Dantas Properties). See [[00 Notes/People/Tim Geisland]]
 - **Rachel Mills** — Executive Assistant on the Mr. Pave team (also property manager at Dantas Properties). See [[00 Notes/People/Rachel Mills]]
 - **Kyle** — Recurring on Portsmouth/Virginia Beach region jobs. See [[00 Notes/People/Kyle]]
 - **Pedro** — New hire, Virginia Beach crew. See [[00 Notes/People/Pedro]]
+- **Ethan Chelberg** — Worked on the Yellow Bins subsidiary launch. See [[00 Notes/People/Ethan Chelberg]]
+- **Lance Diamond** — Finance-related team member, dealing with a health issue as of June 2026. See [[00 Notes/People/Lance Diamond]]
 
 ## Folder Structure
 

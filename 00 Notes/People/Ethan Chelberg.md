@@ -2,12 +2,14 @@
 name: Ethan Chelberg
 companies:
   - Mr. Pave
-role: Project Manager / Business Development (per June 2025 EOS accountability chart) — also involved with Yellow Bins
+role: Worked on the Yellow Bins subsidiary launch
 ---
 
 # Ethan Chelberg
 
-**Role:** Project Manager / Business Development — sales, project management, oversees Crew 4 (per the June 2025 EOS accountability chart, found in the Organizational Development Drive folder). Also worked on the Yellow Bins subsidiary launch (pricing/vendor research, website).
+**Role:** Worked on the Yellow Bins subsidiary launch (pricing/vendor research, website, networking).
+
+<!-- TODO: confirm exact role/title with Tim -->
 
 ## Meeting History
 

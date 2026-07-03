@@ -9,7 +9,7 @@ role: Oversees finance, operations, and HR — reports directly to Tim
 
 **Role:** Oversees finance, operations, and human resources at Mr. Pave. Reports directly to Tim.
 
-**⚠️ Flag for Tim — title discrepancy:** The Mr. Pave EOS accountability chart on file (printed June 2025) lists **Lance Diamond** as CFO, not Jimmy — see [[00 Notes/People/Lance Diamond]]. But in every 2026 meeting, Jimmy is the one actively running finance (RCC deal financials, HELOC instructions, cash reserve targets, KPI drafting). Possible explanations: the org chart is outdated, Jimmy has taken over Lance's responsibilities (Lance has been dealing with a health issue — chemo/radiation, per a June 2026 meeting note), or Jimmy holds a different formal title while functionally running finance day-to-day. Worth a quick confirmation from Tim on what Jimmy's actual current title is.
+<!-- TODO: exact title unknown — confirm with Tim -->
 
 ## Notes
 
