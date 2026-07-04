@@ -25,13 +25,17 @@ If a session is drifting without moving toward the revenue trajectory, the acqui
 **1-year priorities (from GOALS.md):**
 - Hit or exceed $15M revenue with improved net margin
 - Install a true operations leader — reduce dependency on Tim
-- Build a documented sales system for asphalt, and a full sales & onboarding training program (in progress — material to be added to `05 Training & Onboarding/`)
+- Build a documented sales system for asphalt, and a full sales & onboarding training program — **a real 90-day onboarding/training draft now exists**, pulled from Drive into [[03 Projects/Mr. Pave/05 Training & Onboarding/Onboarding/90-Day Onboarding and Training Plan]]. Still needs: printable checklists, DOT tailgate safety talk templates, and a formal pay-tier framework. The sales system side is still open.
 - Clean KPI dashboard: revenue, gross margin by job type, labor efficiency, equipment utilization
 - Develop acquisition criteria for future purchases
 
 **Risk to watch:** Revenue is heavily concentrated — ~80% comes from four utility company relationships (Columbia Gas, Miller Pipeline, VNG, Danella). Worth surfacing if that concentration comes up in decisions (e.g., diversification, contract renewal risk).
 
 **Active acquisition — Reliance Concrete Contractors (RCC):** The company currently in due diligence (~$7-8M revenue, concrete/site work, owner-founder transitioning out). Confirmed by Tim: "Reliance" and "RCC" in meeting notes both refer to this same deal — different advisors use different shorthand (Mike Moro/legal side vs. Brody Wentzel/financial diligence side). Full legal name confirmed via the Google Drive data room ("Data Room - Reliance Concrete Contractors"). See `06 Meetings/` for the full diligence trail.
+
+**Safety & compliance (per Drive's Safety Program Requirements doc):** Mr. Pave operates under OSHA 29 CFR 1926/1910, VOSH, VDOT Work Area Protection Manual, and DOT driver-qualification regs (49 CFR 391/393/396/382). Project managers/foremen (including Russell) need **VECAT certification** for VDOT-funded and state-funded municipal road work. Driver qualification files, MVRs, and safety performance history are tracked and retained per DOT rules.
+
+**Summer internship program:** Runs via a structured outline (Mission: bridge classroom theory and on-the-job reality; ideal candidates embody Quality/Safety/Integrity). Offerings: Videography & Content Creation, Project Management. Four checkpoints per intern: intro interview, weekly supervisor check-ins, project log, and a capstone project. Contacts for interns: Tyler Tipton (Operations), Tom Nagle (Project Management), Rachel Mills (Admin), Tim Geisland (Safety).
 
 ## Process
 

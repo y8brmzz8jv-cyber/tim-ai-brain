@@ -8,7 +8,9 @@ role: Executive Assistant / On-site Property Manager
 
 # Rachel Mills
 
-**Role:** Executive Assistant on Mr. Pave Team, also serves as on-site property manager for Dantas Properties.
+**Role:** Executive Assistant on Mr. Pave Team, also serves as on-site property manager for Dantas Properties. Per the formal role description on file, the job is split **60% Executive Assistant / 40% HR Coordinator** — handles executive support (scheduling, correspondence, confidential info), HR functions (recruitment, records, payroll support, onboarding via Rippling), office coordination, and some business development/client relations support.
+
+**Contact:** (540) 815-3598 · Rachel@mrpave.com
 
 ## Notes
 

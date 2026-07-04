@@ -12,6 +12,8 @@ role: Operations Manager (Mr. Pave) / Project Manager (Veritas Building Company)
 - Operations Manager — Mr. Pave
 - Project Manager — Veritas Building Company
 
+**Contact:** (434) 610-8499 · Tyler@mrpave.com
+
 ## Notes
 
 <!-- General context on Tyler: background, strengths, working style -->

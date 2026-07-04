@@ -9,6 +9,8 @@ role: Project Manager — reports to Tyler Tipton
 
 **Role:** Project Manager at Mr. Pave. Reports to Tyler Tipton.
 
+**Contact:** (612) 875-9492 · Tom@mrpave.com
+
 ## Notes
 
 <!-- General context on Tom: strengths, working style -->

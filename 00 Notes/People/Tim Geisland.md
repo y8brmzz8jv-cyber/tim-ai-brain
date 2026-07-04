@@ -10,7 +10,9 @@ background: Former architect
 
 # Tim Geisland
 
-**Role:** Design & Permitting Processing — Veritas Building Company. Also involved in people/onboarding matters at Mr. Pave (e.g., job descriptions, crew assignments, training rollout).
+**Role:** Design & Permitting Processing — Veritas Building Company. Also involved in people/onboarding matters at Mr. Pave (e.g., job descriptions, crew assignments, training rollout). Listed as the **Safety** contact for Mr. Pave (per internship contact list).
+
+**Contact:** (434) 420-2260 · TimG@mrpave.com
 
 **Background:** Former architect before joining Mr. Pave / Veritas — brings a strong design skill set to the permitting and design-review process.
 
